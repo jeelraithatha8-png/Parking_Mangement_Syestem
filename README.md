@@ -37,7 +37,8 @@ Steps to Install & Run the Project
 Clone the Repository:
 
 
-git clone 
+git clone:  https://github.com/jeelraithatha8-png/Parking_Mangement_Syestem/tree/main
+
 
 cd smart-parking-lot-system
 
